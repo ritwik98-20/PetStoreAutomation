@@ -1,0 +1,10 @@
+[INFO ] 2025-01-12 17:23:18.591 [main] UserTests - ******Creating User*******
+[INFO ] 2025-01-12 17:23:21.699 [main] UserTests - ******User is created *******
+[INFO ] 2025-01-12 17:23:21.707 [main] UserTests - ******Getting UserName*******
+[INFO ] 2025-01-12 17:23:22.926 [main] UserTests - ******user Name retrive*******
+[INFO ] 2025-01-12 17:23:22.928 [main] UserTests - ******Update UserName by UserName*******
+[INFO ] 2025-01-12 17:23:25.086 [main] UserTests - ******First Name, Lastname and Mail is updated*******
+[INFO ] 2025-01-12 17:23:25.089 [main] UserTests - ******Delete UserNAme By Username*******
+[INFO ] 2025-01-12 17:23:26.273 [main] UserTests - ******user is deleted*******
+[INFO ] 2025-01-12 17:23:26.281 [main] UserTests - ******Getting UserName*******
+[INFO ] 2025-01-12 17:23:27.428 [main] UserTests - ******user Name notfound*******
